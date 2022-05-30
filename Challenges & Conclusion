@@ -1,0 +1,18 @@
+Challenges:
+
+One of the biggest challenges was to create data for our database.  
+We avoided importing pre-existing data online and created our own data values. 
+This was an issue for us as we had no previous knowledge of computer repairs shop rates. 
+However, we had a pleasant while creating our unique data. 
+For example for some values we used Windows 9 as an operating system for some jobs.
+Another significant challenge was the implementation part.  
+It would have been easier if we were able to add all of the values into the entities at once.  
+However, we were getting numerous different errors when we were trying to run multiple lines of many of our SQL codes during the implementation process. 
+The problem was, we often couldn’t figure out which specific line is causing errors.  So, we were forced to write and run one line of SQL at a time. 
+
+
+Conclusion:
+
+Creating a digital database for any company is effective, even for small businesses. 
+By having this database, our model business can benefit in various ways: 
+it can easily track record of its customers, employees, appointments and type of repair services the company needs to offer.
