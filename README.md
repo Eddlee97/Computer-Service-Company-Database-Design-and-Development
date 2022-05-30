@@ -8,8 +8,13 @@ Project business model: Tech Service Company is a computer repair shop that diag
 Initial entity list: Customer, computer, appointment, technicians, RepairService, ServiceProvided
 
 Primary role of each members:
+
 Caleb Kim – Systems analysis
+
 Stanley Oriol – Documentation writer
+
 Edward Lee – Database implementation
+
 Parmvir Singh – Application implementation
+
 Choi - Finalization
