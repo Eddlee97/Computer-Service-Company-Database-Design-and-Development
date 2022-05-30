@@ -1,0 +1,6 @@
+Private Sub FirstName_AfterUpdate()
+   FirstName = StrConv(FirstName, vbProperCase)
+End Sub
+Private Sub LastName_AfterUpdate()
+	LastName = StrConv(LastName, vbProperCase)
+End Sub
