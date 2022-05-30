@@ -1,4 +1,4 @@
-# Database-Management-System-project
+# Computer-Service-Company-Database-Design-and-Development
 Computer Services Company Database Design and Development
 
 Project Overview: 
