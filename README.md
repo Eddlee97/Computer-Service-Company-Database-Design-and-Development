@@ -30,7 +30,14 @@ Stanley Oriol – Project & Documentation Writer
 - ServiceProvided
 
 ### Entity-Relationship Model
+
 ![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/cfab2be862090feb7dbca8d7cd5df6982025e16a/ER%20model.png)
+
+### SQL Queries
+
+**We decided to create our own values & data**
+
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/8641c3b3443d0f1fdf8ec54c2181a691dac03576/SQL%20queries.pdf)
 
 ### Design navigation Forms using VBA & Access
 
