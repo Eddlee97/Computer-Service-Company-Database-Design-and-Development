@@ -30,7 +30,7 @@ Stanley Oriol – Project & Documentation Writer
 - ServiceProvided
 
 ### Entity-Relationship Model
-![dim]()
+![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/cfab2be862090feb7dbca8d7cd5df6982025e16a/ER%20model.png)
 
 ***Technology used:***<br>
 1. Lucid Chart
