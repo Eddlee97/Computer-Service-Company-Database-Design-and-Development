@@ -6,12 +6,6 @@
 ***Project business model:***
 <br> Tech Service Company is a computer repair shop that diagnose and offer repair/replacement services to customers. Customers may walk in or make appointments to have their computers checked up. We will need a business account to buy required parts and materials in bulk. It is important for us to keep track of operating system, CPU, GPU and memory of all of the computers. We will also record description, duration and price for each of the repair service performed. Additionally, We may need to track the technicians that work on the computers.
 
-***Technology used:***<br>
-1. Lucid Chart
-2. Microsoft Visio
-3. SQL
-4. Microsoft Access
-
 ***Primary role of each member:*** <br>
 Caleb Kim – Team Leader & Systems Analyst <br>
 Edward Lee – Data Modeler & Database Implementater <br>
@@ -44,5 +38,9 @@ Stanley Oriol – Project & Documentation Writer
 
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/c017a3ddd247f52371f418bc994372344db1953b/Customer%20form.png)
 
-
+***Technology used:***<br>
+1. Lucid Chart
+2. Microsoft Visio
+3. SQL
+4. Microsoft Access
 
