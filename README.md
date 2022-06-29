@@ -38,7 +38,8 @@ Stanley Oriol – Project & Documentation Writer
 ### Entity-Relationship Model
 ![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/cfab2be862090feb7dbca8d7cd5df6982025e16a/ER%20model.png)
 
-### Navigation Forms Design for Business Use
+### Design navigation Forms using VBA & Access
+
 ![Alt text]()
 
 ![Alt text]()
