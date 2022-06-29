@@ -1,0 +1,58 @@
+Relations:
+
+Customer(CustomerID(k), FirstName, LastName, Phone_Number, Street, City, State, ZipCode)
+
+Computer (ComputerID(k), Manufacturer, Model, Year, Operating_System, Serial_Number, CustomerID(fk))
+
+Appointment (AppointmentID(k), Appointment_Date, Appointment_Time, ComputerID(fk)
+
+ServiceItem_Provided ( AppointmentID(fk)(k), LineItem_Number(k), Part_Number, Quantity, Extended_Price, Labor_Hours, EmployeeId(fk), ServiceId(fk))
+
+Employee (EmployeeID(k), FirstName, LastName, Pay_Rate)
+
+RepairService (ServiceID (k), Service_Description, Service_Duration, Service_Price)
+
+------------------------------------------------------------------------------------------------------------------
+
+Normalization:
+
+Customer (CustomerID(k), FirstName, LastName, Phone_Number, Street, City, State, ZipCode)
+key: CustomerID
+FD1: CusomterID -> FirstName, LastName, Phone_Number, Street, City, State, ZipCode
+FD2: ZipCode -> City, State
+
+In order to normalize the relation, we will split the relation “Customer” to deal with transitive dependencies.  
+The new relations will be “Customer_Info” and “Address”
+
+------------------------------------------------------------------------------------------------------------------
+Finally,
+
+Customer_Info (CustomerID(k), FirstName, LastName, Phone_Number, Street, ZipCode)
+key: CustomerID
+FD1: CustomerID -> FirstName, LastName, Phone_Number, Street, ZipCode
+
+Address (City, State, ZipCode (k)
+Key: ZipCode
+FD1: ZipCode -> City, State
+
+Computer (ComputerID(k), Manufacturer, Model, Year, Operating_System, Serial_Number, CustomerID(fk))
+key: ComputerID, CustomerID
+FD1: ComputerID, CustomerID -> Manufacturer, Model, Year, Operating_System, Serial_Number
+
+Appointment (AppointmentID(k), Appointment_Date, Appointment_Time, ComputerID(fk)
+key: AppointmentID, ComputerID
+FD1: AppointmentID, ComputerID -> Appointment_Date, Appointment_Time
+
+ServiceItem_Provided ( AppointmentID(fk)(k), LineItem_Number(k), Part_Number, Quantity, Extended_Price, Labor_Hours, EmployeeId(fk), ServiceId(fk))
+Key:  AppointmentID, LineItem_Number
+FD1:  AppointmentID, LineItem_Number ->  Part_Number, Quantity, Extended_Price, Labor_Hours, EmployeeID, ServiceID
+
+Employee (EmployeeID, FirstName, LastName, Pay_Rate)
+key: EmployeeID
+FD1: EmployeeID -> FirstName, LastName, Pay_Rate
+
+RepairService (ServiceID, Service_Description, Service_Duration, Service_Price)
+key: ServiceID
+FD1: ServiceID -> Service_Description, Service_Duration, Service_Price
+
+//We de-normalized customer_info and address back into the original Customer relation to make keep the implementation process relatively simpler.
