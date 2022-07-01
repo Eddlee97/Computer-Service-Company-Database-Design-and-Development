@@ -33,7 +33,7 @@ Stanley Oriol – Project & Documentation Writer
 
 ![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/cfab2be862090feb7dbca8d7cd5df6982025e16a/ER%20model.png)
 
-### Design navigation Forms using VBA & Access
+### Application design & implementation using VBA & Access
 
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/6ce90cff5f214c7f1e29c2e4609af83f9d9723ac/Appointment%20form.png)
 
