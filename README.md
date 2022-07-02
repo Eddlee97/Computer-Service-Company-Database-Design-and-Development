@@ -37,7 +37,7 @@ Stanley Oriol – Project & Documentation Writer
 
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2337e1f2bf6937add9f53123274a9313e80bbd54/Application%20Implementation/Appointment%20form.png)
 
-![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/c017a3ddd247f52371f418bc994372344db1953b/Customer%20form.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/b7a2ac1bba4e50a9090b013dc9d105759b953743/Application%20Implementation/Customer%20form.png)
 
 ***Technology used:***<br>
 1. Lucid Chart
