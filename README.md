@@ -3,13 +3,7 @@
 ## Project Overview:
 The goal of this project was to design a database model that can satisfy our initial goals stated in the proposal. We wanted to develop a model Computer Repair management system for a generic computer repair shop. 
 
-## Team member:
-Caleb Kim – Team Leader & Systems Analyst <br>
-Edward Lee – Data Modeler & Database Implementater <br>
-Parmvir Singh – Database & Application Implementater <br>
-Choi & Stanley Oriol - Analyst, Project Documentation Writer
-
-***Project/Tasks divided into:*** <br>
+## Project Tasks:
 - Systems Analysis + Logical & Physical Modeling: Edward Lee, Caleb Kim
 - Database + Application Implementation: Caleb Kim, Edward Lee, Parmvir Singh
 - System & Project Documentation: Stanley Oriol, Choi
