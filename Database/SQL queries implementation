@@ -18,6 +18,7 @@ CREATE TABLE Customer
     CONSTRAINT pk_customer
           PRIMARY KEY (CustomerID)
 )
+
 CREATE TABLE Computer
 (
     CustomerID       VARCHAR(10) NOT NULL,
@@ -30,6 +31,7 @@ CREATE TABLE Computer
     CONSTRAINT pk_Computer
           PRIMARY KEY (ComputerID)
 )
+
 CREATE TABLE Appointment
 (
     AppointmentID         VARCHAR(10) NOT NULL,
@@ -38,7 +40,6 @@ CREATE TABLE Appointment
     CONSTRAINT pk_appointment
           PRIMARY KEY (AppointmentID)
 )
- 
  
 CREATE TABLE Employee 
 (
@@ -49,7 +50,8 @@ CREATE TABLE Employee
      CONSTRAINT pk_employee
        PRIMARY KEY (EmployeeID)
 )
- CREATE TABLE RepairService
+
+CREATE TABLE RepairService
 (
     ServiceID            VARCHAR(10) NOT NULL, 
     Service_Description  VARCHAR(50),
@@ -58,8 +60,7 @@ CREATE TABLE Employee
     CONSTRAINT pk_RepairService
         PRIMARY KEY (ServiceID)
 )
- 
- 
+
 CREATE TABLE ServiceItem_Provided
 ( 
     AppointmentID         VARCHAR(10) NOT NULL,
