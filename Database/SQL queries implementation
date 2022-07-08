@@ -47,8 +47,8 @@ CREATE TABLE Employee
     FirstName      VARCHAR(30), 
     LastName       VARCHAR(30), 
     PayRate        NUMBER,
-     CONSTRAINT pk_employee
-       PRIMARY KEY (EmployeeID)
+    CONSTRAINT pk_employee
+          PRIMARY KEY (EmployeeID)
 )
 
 CREATE TABLE RepairService
@@ -58,7 +58,7 @@ CREATE TABLE RepairService
     Service_Duration     INTEGER, 
     ServicePrice         NUMBER, 
     CONSTRAINT pk_RepairService
-        PRIMARY KEY (ServiceID)
+          PRIMARY KEY (ServiceID)
 )
 
 CREATE TABLE ServiceItem_Provided
@@ -71,9 +71,8 @@ CREATE TABLE ServiceItem_Provided
     Quantity              NUMBER, 
     Extended_Price        NUMBER,
     Labor_Hours           NUMBER,
-    
     CONSTRAINT pk_ServiceItem_Provided 
-        PRIMARY KEY (AppointmentID, LineItem_Number)
+          PRIMARY KEY (AppointmentID, LineItem_Number)
 )
  
 ALTER TABLE Customer
