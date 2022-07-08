@@ -1,7 +1,9 @@
 # Computer Services Company Database Design and Development
 
 ## Project Overview:
-The goal of this project was to design a database model that can satisfy our initial goals stated in the proposal. We wanted to develop a model Computer Repair management system for a generic computer repair shop. 
+Developed a database management system for a Computer Service Company (generic computer repair shop) using Microsoft Access. <br>
+The company currently done their activities in a manual way. This manual system is very inefficient, time consuming and heavy paper works day to day. In current system their services are very poor. Following problems are encountered in current existing manual system. There is no methods to maintain customers, appointments, employees, repair services and service items information in systematic way. Difficult to know available items, its quantities and description of each services, and keeping track of everything that needs to get the service done. Due to all of these existing problems, a proper database mangement system is needed for this organization. It will minimize time consume and cost day to day activities furthermore increasing the efficiency. The proposed system is simplest
+all interactions and provide simple environments to do employee's works easily.
 
 ## Project Tasks:
 - Systems Analysis + Logical & Physical Modeling: Edward Lee, Caleb Kim
