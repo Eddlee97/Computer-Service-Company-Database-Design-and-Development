@@ -1,8 +1,10 @@
 # Computer Services Company Database Design and Development
 
 ## Project Overview:
-Developed a database management system for a Computer Service Company (generic computer repair shop) using Microsoft Access. <br>
-Activities are done in a manual way in the company. This manual system is very inefficient, time consuming and heavy paper works day to day. In current system their services are very poor. Following problems are encountered in current existing manual system. There is no methods to maintain customers, appointments, employees, repair services and service items information in systematic way. Difficult to know available items, its quantities and description of each services, and keeping track of everything that needs to get the service done. Due to all of these existing problems, a proper database mangement system is needed for this organization. It will minimize time consume and cost day to day activities furthermore increasing the efficiency. The proposed system is simplest
+Developed a database management system for Computer Services Company (generic computer repair shop) using Microsoft Access. <br>
+Activities are done in a manual way in the company. The manual system is very inefficient, time consuming and heavy paper works day to day. In the current system, their services are very poor. Following problems are encountered in current existing manual system. <br>
+There is no methods to maintain customers, appointments, employees, repair services and service items information in systematic way. It is difficult to know available items, its quantities and description of each services while keeping track of everything that needs to get the service done. <br>
+Due to all existing problems, a proper database mangement system is needed for this organization. It will minimize time consume and cost day to day activities furthermore increasing the efficiency. The proposed system is simplest
 all interactions and provide simple environments to do employee's works easily.
 
 ## Project Tasks:
