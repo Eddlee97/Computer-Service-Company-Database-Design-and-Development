@@ -34,10 +34,9 @@ Stanley Oriol – Project & Documentation Writer
 ![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/77c82247fc1d3d1278386679f77cc34f000a543d/Database%20Design%20(ER%20model).png)
 
 ### Application design & implementation using VBA & Access
-
-![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2337e1f2bf6937add9f53123274a9313e80bbd54/Application%20Implementation/Appointment%20form.png)
-
-![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/b7a2ac1bba4e50a9090b013dc9d105759b953743/Application%20Implementation/Customer%20form.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/customer%20form.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/repair%20service%20form.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/appointment%20service%20form.png)
 
 ***Technology used:***<br>
 1. Lucid Chart
