@@ -31,7 +31,7 @@ Stanley Oriol – Project & Documentation Writer
 
 ### Entity-Relationship Model
 
-![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/cfab2be862090feb7dbca8d7cd5df6982025e16a/ER%20model.png)
+![dim](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/77c82247fc1d3d1278386679f77cc34f000a543d/Database%20Design%20(ER%20model).png)
 
 ### Application design & implementation using VBA & Access
 
