@@ -25,7 +25,7 @@ Computer Services Company is a generic computer repair shop that diagnose and of
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/appointment%20service%20form.png)
 
 ## Analysis: SQL Queries & Output
-![Alt text]()
-![Alt text]()
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/410669950b07cb0479ba405af4c6dda7bad06379/Analysis/1.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/410669950b07cb0479ba405af4c6dda7bad06379/Analysis/2.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/410669950b07cb0479ba405af4c6dda7bad06379/Analysis/3.png)
+![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/410669950b07cb0479ba405af4c6dda7bad06379/Analysis/4.png)
