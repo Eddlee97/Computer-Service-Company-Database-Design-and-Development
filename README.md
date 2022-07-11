@@ -9,6 +9,10 @@ Computer Services Company is a generic computer repair shop that diagnose and of
 - System & Project Documentation: Stanley Oriol, Choi
 - Finalization: All group members
 
+***Technology used:***<br>
+1. Lucid Chart / Microsoft Visio
+2. Microsoft Access + SQL
+
 ### The entities would contain:
 - Customer, Computer, Appointment, Employee(Technician), Repair Service, Service Item Provided
 
@@ -19,10 +23,4 @@ Computer Services Company is a generic computer repair shop that diagnose and of
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/customer%20form.png)
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/repair%20service%20form.png)
 ![Alt text](https://github.com/Eddlee97/Computer-Service-Company-Database-Design-and-Development/blob/2879460ce8b04312837cd9aef92df36e34bda363/Application%20Implementation/appointment%20service%20form.png)
-
-***Technology used:***<br>
-1. Lucid Chart
-2. Microsoft Visio
-3. SQL
-4. Microsoft Access
 
